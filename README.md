@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Viktahugo
 - 👀 I’m interested in Web Development and Data Science and Analysis
 - 🌱 I’m currently learning Data Science and Analysis
-- 📫 How to reach me: (+250789066369) (+250730858137) Email:viktahugo91@gmail.com
+- 📫 How to reach me: (+250789066369) (+250730858137) 
+- Email:viktahugo91@gmail.com
 
 <!---
 Viktahugo/Viktahugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
