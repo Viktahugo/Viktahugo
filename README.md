@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viktahugo
 - 👀 I’m interested in Web Development and Data Science and Analysis
-- 🌱 I’m currently learning Data Science and Analysis
+- 🌱 Data Science | Machine Learning | Deep Learning
 - 📫 How to reach me: (+250789066369) (+250730858137) 
 - Email:viktahugo91@gmail.com
 
