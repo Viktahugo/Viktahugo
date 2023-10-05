@@ -1,4 +1,4 @@
-- <B><h3>ABOUT ME</h3></B>
+- <B><h3>ABOUT VICTOR HUGO BISANGWA </h3></B>
 👋 Hello there, My name is Victor Hugo Bisangwa and I am a passionate backend web developer.
 - I enjoy learning new technologies and solving problems.
 - PHP AND PYTHON Enthusiast
