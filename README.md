@@ -6,9 +6,9 @@
 - EDUCATOR
 - LOVER OF TECHNOLOGY
 - <b><h3> MY OBJECTIVE</h3></b>
-- To constatntly improve my skills
+- To constantly improve my skills
 - Expand my knowledge into Machine Learning and Artificial Intelligence.
--<b><h3>MYS SKILLS</h3></b>
+-<b><h3>MY SKILLS</h3></b>
 - Languages: PHP and Django
 - Database: MySQL, PostgreSQL, MongoDB
 - I’m @Viktahugo
